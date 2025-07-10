@@ -38,6 +38,6 @@ Currently, I’m diving deeper into data science and AI and Rust.
 
 ## 📫 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)]([https://www.linkedin.com/in/wagner-h-morici/])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)] https://www.linkedin.com/in/wagner-h-morici/  
 ✉️ wagner.morici@gmail.com
 
