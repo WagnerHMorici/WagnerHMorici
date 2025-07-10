@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working with data engineering
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning ML, Computer Vision and Rust
 
 
